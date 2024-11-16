@@ -7,7 +7,7 @@ make sure you have node installed.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/bupedev/typescript-p5js-boilerplate.git <your_project_name>
+git clone https://github.com/davidmcdougs/bricks.git <your_project_name>
 cd <your_project_name>
 ```
 *Skip this step if you just download it as a zip file
